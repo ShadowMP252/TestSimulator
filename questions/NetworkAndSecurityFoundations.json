@@ -1,0 +1,810 @@
+[
+  {
+    "question": "What are the layers of the OSI model?",
+    "answers": [
+      "Application, Presentation, Session, Transport, Network, Data Link, Physical",
+      "Application, Transport, Network, Data Link, Physical",
+      "Application, Presentation, Session, Transport, Network",
+      "Application, Session, Transport, Network, Data Link"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the layers of the TCP/IP model?",
+    "answers": [
+      "Application, Session, Transport, Network",
+      "Application, Transport, Network, Data Link",
+      "Application, Presentation, Session, Transport",
+      "Application, Transport, Internet, Network Access"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What are examples of protocols included in the Application layer of the OSI and TCP/IP models?",
+    "answers": [
+      "ARP, ICMP",
+      "TCP, UDP, IP",
+      "HTTP, HTTPS, FTP, SMTP, IMAP",
+      "Ethernet, Wi-Fi"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is the purpose of the Transport Layer in the OSI model?",
+    "answers": [
+      "To manage physical connections",
+      "To route packets across networks",
+      "To establish sessions between applications",
+      "To define how data is formatted for transmission",
+      "To provide end-to-end communication and error recovery"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "What is the purpose of the Network Layer in the OSI model?",
+    "answers": [
+      "To manage physical connections",
+      "To route packets across networks",
+      "To establish sessions between applications",
+      "To define how data is formatted for transmission",
+      "To provide end-to-end communication and error recovery"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is the purpose of the Data Link Layer in the OSI model?",
+    "answers": [
+      "To provide error detection and correction for frames",
+      "To route packets across networks",
+      "To establish sessions between applications",
+      "To define how data is formatted for transmission",
+      "To manage physical connections"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the purpose of the Physical Layer in the OSI model?",
+    "answers": [
+      "To provide error detection and correction for frames",
+      "To route packets across networks",
+      "To manage physical connections",
+      "To define how data is formatted for transmission",
+      "To establish sessions between applications"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is the purpose of the Physical Layer in the TCP/IP model?",
+    "answers": [
+      "To provide error detection and correction for frames",
+      "To route packets across networks",
+      "To manage physical connections",
+      "To define how data is formatted for transmission",
+      "There is no Physical Layer in the TCP/IP model"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question":"How fast is 802.11a? What is the frequency?",
+    "answers": [
+      "54 Mbps, 2.4 GHz",
+      "54 Mbps, 5 GHz",
+      "11 Mbps, 2.4 GHz",
+      "11 Mbps, 5 GHz"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is the maximum data rate of 802.11n?",
+    "answers": [
+      "54 Mbps",
+      "300 Mbps",
+      "600 Mbps",
+      "1 Gbps"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is the maximum data rate of 802.11ac?",
+    "answers": [
+      "54 Mbps",
+      "300 Mbps",
+      "600 Mbps",
+      "1 Gbps",
+      "3.5 Gbps"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question":"What is the maximum data rate of 802.11ax?",
+    "answers": [
+      "54 Mbps",
+      "10 Gbps",
+      "600 Mbps",
+      "1 Gbps"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What are examples of network devices?",
+    "answers": [
+      "Router, Switch, Hub, Bridge",
+      "Firewall, Access Point, Modem",
+      "Repeater, Gateway, Load Balancer",
+      "All of the above"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What device is used to connect multiple devices within a network?",
+    "answers": [
+      "Router",
+      "Switch",
+      "Bridge",
+      "Hub"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What device is used to connect different networks?",
+    "answers": [
+      "Router",
+      "Switch",
+      "Hub",
+      "Bridge"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What blocks and permits traffic based on security rules?",
+    "answers": [
+      "Router",
+      "Switch",
+      "Firewall",
+      "Hub"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What device provides wireless connectivity to a network?",
+    "answers":[
+      "Router",
+      "Switch",
+      "Access Point",
+      "Hub"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What are the standard cabling types used in networking?",
+    "answers":[
+      "Coaxial, Twisted Pair, Fiber Optic",
+      "Coaxial, HDMI, USB",
+      "Twisted Pair, HDMI, USB",
+      "Fiber Optic, HDMI, USB"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the speed and distance of Cat3 cable?",
+    "answers":[
+      "10 Mbps, 100 meters",
+      "100 Mbps, 100 meters",
+      "1 Gbps, 100 meters",
+      "10 Gbps, 100 meters"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the speed and distance of Cat5 cable?",
+    "answers":[
+      "10 Mbps, 100 meters",
+      "100 Mbps, 100 meters",
+      "1 Gbps, 100 meters",
+      "10 Gbps, 100 meters"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is the speed and distance of Cat5e cable?",
+    "answers":[
+      "10 Mbps, 100 meters",
+      "100 Mbps, 100 meters",
+      "1 Gbps, 100 meters",
+      "10 Gbps, 100 meters"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is the speed and distance of Cat4 cable?",
+    "answers":[
+      "16 Mbps, 100 meters",
+      "100 Mbps, 100 meters",
+      "1 Gbps, 100 meters",
+      "10 Gbps, 100 meters"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the speed and distance of Cat6 cable?",
+    "answers":[
+      "100 Mbps, 100 meters",
+      "Gbps, 55 meters",
+      "100 Gbps, 100 meters",
+      "10 Mbps, 100 meters"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"PAN stand for what?",
+    "answers":[
+      "Personal Area Network",
+      "Private Area Network",
+      "Public Area Network",
+      "Protected Area Network"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"LAN stand for what?",
+    "answers":[
+      "Long Area Network",
+      "Large Area Network",
+      "Local Area Network",
+      "Limited Area Network"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"WAN stand for what?",
+    "answers":[
+      "Web Area Network",
+      "Wireless Area Network",
+      "World Area Network",
+      "Wide Area Network"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"CAN stand for what?",
+    "answers":[
+      "Central Area Network",
+      "City Area Network",
+      "Campus Area Network",
+      "Community Area Network"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"MAN stand for what?",
+    "answers":[
+      "Mobile Area Network",
+      "Medium Area Network",
+      "Metropolitan Area Network",
+      "Managed Area Network"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"SAN stand for what?",
+    "answers":[
+      "Service Area Network",
+      "Secure Area Network",
+      "System Area Network",
+      "Storage Area Network"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What are the different network topologies?",
+    "answers":[
+      "Star, Ring, Bus, Mesh, Hybrid",
+      "Star, Tree, Hybrid, Point-to-Point",
+      "Star, Ring, Bus, Hybrid",
+      "Star, Mesh, Point-to-Point, Tree"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the difference between On-Premises and Cloud deployment?",
+    "answers":[
+      "On-Premises is hosted on local servers, Cloud is hosted on remote servers",
+      "On-Premises requires physical hardware, Cloud does not",
+      "On-Premises is more secure than Cloud",
+      "All of the above"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What is the difference between Client-Server and Peer-to-Peer architectures?",
+    "answers":[
+      "Client-Server has dedicated servers, Peer-to-Peer does not",
+      "Client-Server is more scalable than Peer-to-Peer",
+      "Peer-to-Peer allows direct communication between clients",
+      "All of the above"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What are common network commands used in both Windows and Linux?",
+    "answers":[
+      "ping, tracert, ipconfig, ip",
+      "grep, cp, mv",
+      "traceroute, learn, ls",
+      "All of the above"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the difference between ping and tracert commands?",
+    "answers":[
+      "ping is used for DNS resolution, tracert is used for IP resolution",
+      "ping shows the path to a destination, tracert checks connectivity",
+      "ping checks files, tracert shows the path to a relative path",
+      "ping and tracert are the same command",
+      "ping is used for checking connectivity, tracert shows the route taken by packets"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question":"What is the CIA Triad?",
+    "answers":[
+      "Control, Identity, Availability",
+      "Control, Integrity, Access",
+      "Confidentiality, Identity, Access",
+      "Confidentiality, Integrity, Availability"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What is Confidentiality in the CIA Triad?",
+    "answers":[
+      "Ensuring that information is not disclosed to unauthorized individuals",
+      "Ensuring that information is accurate and trustworthy",
+      "Ensuring that information is available when needed",
+      "Ensuring that information is accessible to unauthorized users"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is Integrity in the CIA Triad?",
+    "answers":[
+      "Ensuring that information is not altered or tampered with",
+      "Ensuring that information is encrypted.",
+      "Ensuring that information is available when needed",
+      "Ensuring that information is protected from unauthorized access"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is Availability in the CIA Triad?",
+    "answers":[
+      "Ensuring that information is accurate and trustworthy",
+      "Ensuring that information is protected from unauthorized access",
+      "Ensuring that information is accessible when needed",
+      "Ensuring that information is not disclosed to unauthorized individuals"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What are common vulnerabilities in network security?",
+    "answers":[
+      "Strong passwords, Regular updates, Proper configurations",
+      "Weak passwords, Unpatched software, Misconfigured devices",
+      "Encrypted data, Firewalls, VPNs",
+      "All of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+  "question": "What is a Zero-Day Threat?",
+  "answers": [
+    "A cyberattack that occurs at midnight",
+    "A vulnerability that has been known for zero days and has no patch available",
+    "A virus that only lasts for 24 hours",
+    "A threat that targets backup systems specifically"
+  ],
+  "correctAnswer": 2
+  },
+  {
+    "question":"What are the common attacker types?",
+    "answers":[
+      "Script Kiddies, Hacktivists, Nation-State Actors, Cybercriminals",
+      "White Hat Hackers, Black Hat Hackers, Grey Hat Hackers",
+      "Insider Threats, External Threats",
+      "All of the above"
+    ],
+    "correctAnswer": 4 
+  },
+  {
+    "question":"What is DoS?",
+    "answers":[
+      "Denial of Service",
+      "Data of Service",
+      "Distributed of Service",
+      "Domain of Service"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the difference between DoS and DDoS?",
+    "answers": [
+      "DoS uses a single source, DDoS uses multiple sources to flood a target",
+      "DoS and DDoS both come from the same machine",
+      "DoS cannot cause downtime, DDoS can",
+      "DoS and DDoS are both wireless attacks"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is SQL Injection?",
+    "answers":[
+      "A type of malware that targets SQL databases",
+      "A technique used to bypass authentication",
+      "A method of injecting SQL queries into a database",
+      "A method of encrypting SQL queries"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is spoofing?",
+    "answers":[
+      "A method of bypassing firewalls",
+      "A method of encrypting data",
+      "A type of malware that targets email systems",
+      "A technique used to disguise the origin of a message"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What is phishing?",
+    "answers":[
+      "A method of bypassing firewalls",
+      "A technique used to steal sensitive information by masquerading as a trustworthy entity",
+      "A type of malware that targets email systems",
+      "A method of encrypting data"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is a firewall?",
+    "answers":[
+      "A device that blocks all network traffic",
+      "A device that allows all network traffic",
+      "A device that monitors and controls incoming and outgoing network traffic based on predetermined security rules",
+      "A device that encrypts all network traffic"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is a VPN?",
+    "answers":[
+      "Virtual Private Network",
+      "Virtual Public Network",
+      "Virtual Protected Network",
+      "Virtual Personal Network"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is a proxy server?",
+    "answers":[
+      "A server that acts as an intermediary for requests from clients seeking resources from other servers",
+      "A server that blocks all network traffic",
+      "A server that allows all network traffic",
+      "A server that encrypts all network traffic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is a DMZ?",
+    "answers":[
+      "Decentralized Memory Zone",
+      "Demilitarized Zone",
+      "Data Management Zone",
+      "Data Monitoring Zone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is a VLAN?",
+    "answers":[
+      "Virtual Large Area Network",
+      "Virtual Limited Area Network",
+      "Virtual Local Area Network",
+      "Virtual Long Area Network"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is a subnet?",
+    "answers":[
+      "A smaller network within a larger network",
+      "A type of malware that targets networks",
+      "A method of encrypting data",
+      "A device that blocks all network traffic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is Malware?",
+    "answers":[
+      "A type of malicious software",
+      "A type of hardware",
+      "A type of network protocol",
+      "A type of encryption"       
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is a Virus?",
+    "answers":[
+      "A type of encryption that protects data",
+      "A type of hardware that causes system failures",
+      "A type of network protocol that slows down connections",
+      "A type of malware that replicates itself and spreads to other devices"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What is Ransomware?",
+    "answers":[
+      "A type of hardware that causes system failures",
+      "A type of malware that encrypts files and demands payment for decryption",
+      "A type of network protocol that slows down connections",
+      "A type of encryption that protects data"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is a Botnet?",
+    "answers":[
+      "A type of network protocol that slows down connections",
+      "A type of hardware that causes system failures",
+      "A network of infected devices controlled by a hacker",
+      "A type of encryption that protects data"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is Least Privilege?",
+    "answers":[
+      "A security principle that allows users to have unlimited access to all resources",
+      "A security principle that ensures users have only the minimum level of access necessary to perform their tasks",
+      "A security principle that restricts access to only administrators",
+      "A security principle that allows users to share passwords"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is Separation of Duties?",
+    "answers":[
+      "A security principle that allows a single user to perform all tasks",
+      "A security principle that divides responsibilities among multiple users to prevent fraud and errors",
+      "A security principle that restricts access to only administrators",
+      "A security principle that allows users to share passwords"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What are the common firewall types?",
+    "answers":[
+      "Packet Filtering, Stateful Inspection, Proxy Firewall, UTM Firewall, Application Firewall",
+      "Application Firewall, Network Firewall, Host-based Firewall",
+      "Hardware Firewall, Software Firewall, Cloud Firewall",
+      "All of the above"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the difference between IDS (Intrusion Detection System) and IPS (Intrusion Prevention System)?",
+    "answers":[
+      "IDS detects and alerts on intrusions, IPS detects and prevents intrusions",
+      "IDS is a hardware device, IPS is a software application",
+      "IDS is used for network security, IPS is used for application security",
+      "IDS and IPS are the same thing"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is Symmetric Encryption?",
+    "answers":[
+      "A type of encryption that does not require a key",
+      "A type of encryption that uses different keys for encryption and decryption",
+      "A type of encryption that uses the same key for both encryption and decryption",
+      "A type of encryption that uses multiple keys"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is Asymmetric Encryption?",
+    "answers":[
+      "A type of encryption that does not require a key",
+      "A type of encryption that uses the same key for both encryption and decryption",
+      "A type of encryption that uses different keys for encryption and decryption",
+      "A type of encryption that uses multiple keys"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is Hybrid Encryption?",
+    "answers":[
+      "A type of encryption that uses both symmetric and asymmetric encryption",
+      "A type of encryption that does not require a key",
+      "A type of encryption that uses the same key for both encryption and decryption",
+      "A type of encryption that uses multiple keys"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What does SaaS stand for?",
+    "answers":[
+      "Security as a Service",
+      "Software as a Service",
+      "Storage as a Service",
+      "System as a Service"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What does PaaS stand for?",
+    "answers":[
+      "Process as a Service",
+      "Product as a Service",
+      "Platform as a Service",
+      "Performance as a Service"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What does IaaS stand for?",
+    "answers":[
+      "Infrastructure as a Service",
+      "Information as a Service",
+      "Integration as a Service",
+      "Internet as a Service"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is Authentication in AAA?",
+    "answers":[
+      "The process of granting access to resources",
+      "The process of verifying the identity of a user or device",
+      "The process of tracking user activity",
+      "The process of encrypting data"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is Authorization in AAA?",
+    "answers":[
+      "The process of tracking user activity",
+      "The process of verifying the identity of a user or device",
+      "The process of granting access to resources",
+      "The process of encrypting data"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is Accounting in AAA?",
+    "answers":[
+      "The process of tracking user activity and resource usage",
+      "The process of verifying the identity of a user or device",
+      "The process of granting access to resources",
+      "The process of encrypting data"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is a Security Policy?",
+    "answers":[
+      "A report on security incidents and breaches",
+      "A document that outlines the roles and responsibilities of security personnel",
+      "A list of security tools and technologies used by an organization",
+      "A set of rules and guidelines for managing security within an organization"
+    ],
+    "correctAnswer": 4
+  },
+  {
+  "question": "Which of the following are common **wireless security protocols**?",
+  "answers": [
+    "ARP, TCP, DHCP, DNS",
+    "HTTP, FTP, SMTP, SNMP",
+    "WEP, WPA, WPA2, WPA3",
+    "SSL, TLS, IPSec, Kerberos",
+    "All of the above"
+  ],
+  "correctAnswer": 3
+  },
+  {
+    "question":"What is BYOD?",
+    "answers":[
+      "Bring Your Own Device",
+      "Bring Your Own Data",
+      "Bring Your Own Domain",
+      "Bring Your Own Download"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What is the purpose of Security Awareness Training?",
+    "answers":[
+      "To teach employees how to use security tools",
+      "To educate employees about security threats and best practices",
+      "To train employees on how to develop software securely",
+      "To provide employees with access to security resources"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What is PII?",
+    "answers":[
+      "Personally Identifiable Information",
+      "Publicly Identifiable Information",
+      "Protected Internal Information",
+      "Private Internet Information"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What regulation protects healthcare information?",
+    "answers":[
+      "GDPR",
+      "PCI DSS",
+      "HIPAA",
+      "FERPA"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What regulation protects financial information?",
+    "answers":[
+      "GDPR",
+      "SOX",
+      "HIPAA",
+      "FERPA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question":"What regulation protects education data?",
+    "answers":[
+      "GDPR",
+      "PCI DSS",
+      "HIPAA",
+      "FERPA"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question":"What regulation protects EU citizens' data?",
+    "answers":[
+      "GDPR",
+      "PCI DSS",
+      "HIPAA",
+      "FERPA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question":"What regulation protects Credit Card information?",
+    "answers":[
+      "GDPR",
+      "HIPAA",
+      "PCI DSS",
+      "FERPA"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question":"What is the purpose of a Security Incident Response Plan?",
+    "answers":[
+      "To prevent security incidents from occurring",
+      "To outline the steps to take in response to a security incident",
+      "To train employees on security best practices",
+      "To monitor network traffic for security threats"
+    ],
+    "correctAnswer": 2
+  }
+]

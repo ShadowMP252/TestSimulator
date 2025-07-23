@@ -1,0 +1,3 @@
+# Coming soon...
+# This file is a placeholder for the setup script.
+# It will be used to set up the environment for the WGU OASimulator project.
